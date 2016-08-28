@@ -1,0 +1,5 @@
+packages/
+*.user
+.vs/
+EfMigrationDifferentDbs/bin/
+EfMigrationDifferentDbs/obj/
