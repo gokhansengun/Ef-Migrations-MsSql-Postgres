@@ -1,6 +1,8 @@
-# Setting up and Adding a New Migration for both MsSql and Postgres Databases using Entity Framework Code First Migrations
+# Setting up Migrations for MsSql and Postgres in the same Visual Studio Project
 
-Use the following instructions to generate Entity Framework migrations in order to obtain SQL scripts both for Postgres and MsSql databases. 
+This example project shows enabling migrations for both MsSql and Postgres and adding a new migration for both of them using Entity Framework Code First Migrations.
+
+Use the following instructions to generate Entity Framework migrations in order to obtain SQL scripts or update the Postgres and MsSql databases. 
 
 ## MsSql Migrations Steps
 
